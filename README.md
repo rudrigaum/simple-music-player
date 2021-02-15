@@ -1,2 +1,2 @@
-# simply-music-player
+# simple-music-player
 A Simple Android Music Player
